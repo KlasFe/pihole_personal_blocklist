@@ -13,8 +13,8 @@
 0.0.0.0 aqm3wd1qlc3dy.iot.us-east-1.amazonaws.com
 0.0.0.0 fireoscaptiveportal.com
 0.0.0.0 linke.de
-0.0.0.0 (\.|^)instagram\.com$
-0.0.0.0 (\.|^)facebook\.com$
+0.0.0.0 www.facebook.com
+0.0.0.0 facebook.com
 0.0.0.0 rt.applovin.com
 0.0.0.0 cdn.liftoff-creatives.io
 0.0.0.0 impression-europe.liftoff.io
