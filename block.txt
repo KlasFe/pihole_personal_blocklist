@@ -39,3 +39,9 @@
 0.0.0.0 beacon-ams3.rubiconproject.com
 0.0.0.0 dsp.active-agent.com
 0.0.0.0 rr3---sn-8xgn5uxa-quhz.googlevideo.com
+0.0.0.0 dns.google
+0.0.0.0 cloudflare-dns.com
+0.0.0.0 mozilla.cloudflare-dns.com
+0.0.0.0 dns.quad9.net
+0.0.0.0 doh.opendns.com
+0.0.0.0 doh.cleanbrowsing.org
