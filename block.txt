@@ -3,6 +3,7 @@
 # Date: 25 May 2025 09:20:00 (CEST)
 # Number of unique domains: 
 
+(\.|^)bild\.de$
 ||catalog.gamepass.com^
 ||ecn.dev.virtualearth.net^
 ||device-heartbeat-deu-6dc239d5.ibroadlink.com^
