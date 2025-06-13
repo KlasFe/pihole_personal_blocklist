@@ -3,39 +3,38 @@
 # Date: 25 May 2025 09:20:00 (CEST)
 # Number of unique domains: 
 
-0.0.0.0 catalog.gamepass.com
-0.0.0.0 ecn.dev.virtualearth.net
-0.0.0.0 device-heartbeat-deu-6dc239d5.ibroadlink.com
-0.0.0.0 security.iot.i.tplinknbu.com
-0.0.0.0 tabletcaptiveportal.com
-0.0.0.0 osb-v1-alb.samsungqbe.com
-0.0.0.0 ntp.aliyun.com
-0.0.0.0 aqm3wd1qlc3dy.iot.us-east-1.amazonaws.com
-0.0.0.0 fireoscaptiveportal.com
-0.0.0.0 linke.de
-0.0.0.0 www.facebook.com
-0.0.0.0 facebook.com
-0.0.0.0 rt.applovin.com
-0.0.0.0 cdn.liftoff-creatives.io
-0.0.0.0 impression-europe.liftoff.io
-0.0.0.0 ms4.applovin.com
-0.0.0.0 ecs.office.com
-0.0.0.0 v10.events.data.microsoft.com
-0.0.0.0 edge-mqtt.facebook.com
-0.0.0.0 epdg.epc.mnc002.mcc262.pub.3gppnetwork.org
-0.0.0.0 tracking.aws.judge.me
-0.0.0.0 cdn.shopify.com
-0.0.0.0 api.fibbl.com
-0.0.0.0 api.zigpoll.com
-0.0.0.0 res1.applovin.com
-0.0.0.0 img.applovin.com
-0.0.0.0 spire.aarki.net
-0.0.0.0 pubads.g.doubleclick.net
-0.0.0.0 prod-mediate-events.applovin.com
-0.0.0.0 assets.applovin.com
-0.0.0.0 aes.eu-west.3px.axp.amazon-adsystem.com
-0.0.0.0 unagi-eu.amazon.com
-0.0.0.0 rus-trk.monetune.com
-0.0.0.0 beacon-ams3.rubiconproject.com
-0.0.0.0 dsp.active-agent.com
-0.0.0.0 rr3---sn-8xgn5uxa-quhz.googlevideo.com
+||catalog.gamepass.com^
+||ecn.dev.virtualearth.net^
+||device-heartbeat-deu-6dc239d5.ibroadlink.com^
+||security.iot.i.tplinknbu.com^
+||tabletcaptiveportal.com^
+||osb-v1-alb.samsungqbe.com^
+||ntp.aliyun.com^
+||aqm3wd1qlc3dy.iot.us-east-1.amazonaws.com^
+||fireoscaptiveportal.com^
+||linke.de^
+||facebook.com^
+||rt.applovin.com^
+||cdn.liftoff-creatives.io^
+||impression-europe.liftoff.io^
+||ms4.applovin.com^
+||ecs.office.com^
+||v10.events.data.microsoft.com^
+||edge-mqtt.facebook.com^
+||epdg.epc.mnc002.mcc262.pub.3gppnetwork.org^
+||tracking.aws.judge.me^
+||cdn.shopify.com^
+||api.fibbl.com^
+||api.zigpoll.com^
+||res1.applovin.com^
+||img.applovin.com^
+||spire.aarki.net^
+||pubads.g.doubleclick.net^
+||prod-mediate-events.applovin.com^
+||assets.applovin.com^
+||aes.eu-west.3px.axp.amazon-adsystem.com^
+||unagi-eu.amazon.com^
+||rus-trk.monetune.com^
+||beacon-ams3.rubiconproject.com^
+||dsp.active-agent.com^
+||rr3---sn-8xgn5uxa-quhz.googlevideo.com^
